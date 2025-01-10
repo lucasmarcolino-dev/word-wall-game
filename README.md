@@ -12,7 +12,7 @@ Para rodar o jogo em seu ambiente local, você precisará do seguinte:
 ## ▶️ **Como executar o jogo**
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone https://github.com/seu-usuario/word-wall-game.git
+   git clone https://github.com/lucasmarcolino-dev/word-wall-game.git
    cd word-wall-game
    ```
 2. Execute o arquivo principal:
