@@ -42,13 +42,19 @@ word-wall-game/
 ## 🔧 **Personalização**
 Você pode adicionar mais palavras ao arquivo `words.txt` seguindo a estrutura:
 ```txt
-categoria: palavra1, palavra2, palavra3
+palavra1
+palavra2
+palavra3
 ```
 
 Por exemplo:
 ```txt
-frutas: abacaxi, melancia, laranja
-animais: elefante, tartaruga, rinoceronte
+abacaxi
+melancia
+laranja
+elefante
+tartaruga
+rinoceronte
 ```
 
 ---
