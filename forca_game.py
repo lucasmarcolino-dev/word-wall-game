@@ -20,8 +20,7 @@ list_answers = []
 
 life = 5
 
-for i in range(size_word):
-	list_underscore.append(' _ ') 
+list_underscore = [' _ ' for letter in chosen_word]
 
 while life > 0:
 
